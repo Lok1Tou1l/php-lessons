@@ -55,7 +55,7 @@ This repository includes the following projects:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/php-beginner-projects.git
+   git clone https://github.com/yourusername/php-lessons.git
 Set up a local PHP development environment:
 
 Use a server like XAMPP, LAMP, or any other preferred PHP server.
@@ -67,11 +67,11 @@ Configure your config.php file (usually contains database connection credentials
 Access each project by navigating to the folder in your browser, e.g., localhost/auth_system/, localhost/library_management/, or localhost/real_estate_management/.
 
 ## Technologies Used
-PHP 7.x+
-MySQL
-HTML/CSS (for front-end)
-JavaScript (for client-side interactivity)
-Contributing
+- PHP 7.x+
+- MySQL
+- HTML/CSS (for front-end)
+
+## Contributing
 Feel free to fork this repository and contribute by submitting pull requests with bug fixes, improvements, or new features. If you have any questions or suggestions, don't hesitate to open an issue.
 
 ## License
