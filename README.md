@@ -17,9 +17,9 @@ This repository includes the following projects:
 
    **How to run:**
    - Set up a local PHP server or use XAMPP/LAMP.
-   - Import the database schema from `auth_system.sql` into your MySQL database.
+   - Import the database schema from `users.sql` into your MySQL database.
    - Edit the configuration file for your database connection (`config.php`).
-   - Access the project through your browser at `localhost/auth_system/`.
+   - Access the project through your browser at `localhost/php-lessons/auth_system/`.
 
 ### 2. **Library Management System**
    A simple library management system where users can manage books, borrow and return them. This project covers basic CRUD operations (Create, Read, Update, Delete) with a focus on book and user management.
@@ -55,7 +55,7 @@ This repository includes the following projects:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/php-lessons.git
+   git clone https://github.com/Lok1Tou1l/php-lessons.git
 Set up a local PHP development environment:
 
 Use a server like XAMPP, LAMP, or any other preferred PHP server.
